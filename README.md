@@ -1,2 +1,2 @@
 # CurrencyConverter
-A GUI based project using Tkinter Library in Python
+A GUI based project using Tkinter Module in Python
